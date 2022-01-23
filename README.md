@@ -3,6 +3,10 @@ Dogglers - Starter Code
 
 Starter code for the second independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
 
+https://developer.android.com/codelabs/basic-android-kotlin-training-project-dogglers-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-project-dogglers-app#0
+
+Download this app: https://github.com/krisnadwia/Dogglers/blob/master/app/build/outputs/apk/debug/app-debug.apk?raw=true
+
 Introduction
 ------------
 
@@ -25,3 +29,18 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+Screenshots
+-----------
+
+<img src="assets/Logo.png"
+width="256">&nbsp;&nbsp;&nbsp;
+<img src="assets/Home.png"
+width="256">&nbsp;&nbsp;&nbsp;
+<img src="assets/VerticalListItem.png"
+width="256">&nbsp;&nbsp;&nbsp;
+
+<img src="assets/HorizontalListItem.png"
+width="256">&nbsp;&nbsp;&nbsp;
+<img src="assets/GridListItem.png"
+width="256">&nbsp;&nbsp;&nbsp;
