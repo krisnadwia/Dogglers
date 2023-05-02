@@ -5,7 +5,7 @@ Starter code for the second independent project for [Android Basics in Kotlin](h
 
 https://developer.android.com/codelabs/basic-android-kotlin-training-project-dogglers-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-project-dogglers-app#0
 
-Download this app: https://github.com/krisnadwia/Dogglers/blob/master/app/build/outputs/apk/debug/app-debug.apk?raw=true
+Download this app: https://drive.google.com/drive/folders/1L_G1ZH-acNxv-2JvT_pNx6KDKwm3ULXK?usp=share_link
 
 Introduction
 ------------
